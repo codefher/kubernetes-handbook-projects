@@ -19,4 +19,3 @@ This repository holds the code for my Kubernetes Handbook article on [__freeCode
 - Familiarity with Docker (suggested read: [The Docker Handbook](https://www.freecodecamp.org/news/the-docker-handbook/)).
 
 It's fine if you haven't worked with JavaScript that much. Having a basic knowledge of executing scripts with `npm` will suffice.
-# kubernetes-handbook-projects
